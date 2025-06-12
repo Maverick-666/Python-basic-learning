@@ -2,7 +2,7 @@
 
 欢迎来到我的 Python 基础学习仓库！
 
-这里记录了我从零开始系统学习 Python 的完整历程，通过与 AI 助手“洞察先锋”（还要感谢我的好兄弟thz提供,请移步[洞察先锋](https://github.com/zhouzeyue/insighter)拿到提示词）的深度互动，将每一天的学习内容进行消化、提炼、实践和归档。
+这里记录了我从零开始系统学习 Python 的完整历程，通过与 AI 助手“洞察先锋”（**还要感谢我的好兄弟thz提供,请移步[洞察先锋](https://github.com/zhouzeyue/insighter)拿到提示词**）的深度互动，将每一天的学习内容进行消化、提炼、实践和归档。
 
 本项目主要跟随 [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) 教程的脉络进行，但我采用了一种独特的“四文件”学习模式来加深理解和巩固知识。希望能为同样在学习 Python 的朋友们提供一个清晰、可实践的学习范例和参考路径。
 
